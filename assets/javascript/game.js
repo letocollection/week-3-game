@@ -22,8 +22,8 @@ SetUnderline = function(){
 	}
 
 	WordU = WordUArray.join("");
-	document.getElementByID("word").innerHTML = WordU;
-	document.getElementByID("numLet").innerHTML = Word.length;
+	document.getElementById("word").innerHTML = WordU;
+	document.getElementById("numLet").innerHTML = Word.length;
 
 }
 	
