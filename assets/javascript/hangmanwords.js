@@ -31,3 +31,5 @@ Words.List[25] = "simisear";
 Words.List[26] = "pansage";
 Words.List[27] = "stoutland";
 Words.List[28] = "pikachu";
+
+Words.Length = Words.List.length;
